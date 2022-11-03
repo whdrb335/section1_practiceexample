@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35aac3c6-a359-4d97-a900-353f7d44c5dc" name="변경" comment="dffdgfg">
-      <change afterPath="$PROJECT_DIR$/test/src/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarTest.java" beforeDir="false" />
+    <list default="true" id="35aac3c6-a359-4d97-a900-353f7d44c5dc" name="변경" comment="section1 / 클래스 와 객체 / 객체의 생성과 활용">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/LG/section1_practiceexample"
+    "last_opened_file_path": "C:/Users/LG/section1_practiceexample",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667450058990</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="section1 / 클래스 와 객체 / 객체의 생성과 활용">
+      <created>1667450631908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667450631908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +83,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dffdgfg" />
-    <option name="LAST_COMMIT_MESSAGE" value="dffdgfg" />
+    <MESSAGE value="section1 / 클래스 와 객체 / 객체의 생성과 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="section1 / 클래스 와 객체 / 객체의 생성과 활용" />
   </component>
 </project>

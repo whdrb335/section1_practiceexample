@@ -10,6 +10,7 @@ public class CarTest {
         tesla.stop();
     }
 }
+//안녕
 
 class Car {
     public String model; // 필드 선언
