@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35aac3c6-a359-4d97-a900-353f7d44c5dc" name="변경" comment="dffdgfg" />
+    <list default="true" id="35aac3c6-a359-4d97-a900-353f7d44c5dc" name="변경" comment="dffdgfg">
+      <change afterPath="$PROJECT_DIR$/test/src/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,15 +27,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H1G61A6oVPpOxhdF9zmb8h6HkP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/LG/git_practice"
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/LG/section1_practiceexample"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -44,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667444996517</updated>
     </task>
+    <task id="LOCAL-00001" summary="dffdgfg">
+      <created>1667450058990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667450058990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +72,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="dffdgfg" />
+    <option name="LAST_COMMIT_MESSAGE" value="dffdgfg" />
   </component>
 </project>
